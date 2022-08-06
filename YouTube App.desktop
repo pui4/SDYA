@@ -1,0 +1,6 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Exec=python3 /home/deck/Downloads/SDYA/main.py
+Name=Youtube App
