@@ -29,7 +29,19 @@ python3 setup.py
 ```
 This sets up all the dependencys needed and creates the app.
 
+If it FAILS with a bunch of key errors then run ```pacman-key --populate archlinux```
+
 ## ADDING TO STEAM
+Right click on YouTube App on the desktop.
+
+Click properties.
+
+Click permissions.
+
+Then check is executable.
+
+Then close the properties window.
+
 Open Steam.
 
 Click on add a game.
