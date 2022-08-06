@@ -58,4 +58,4 @@ Then click ADD SELECTED PROGRAMES.
 
 Now if you boot into Gaming Mode you should see YouTube App in Non-Steam Games.
 
-You have now install the YouTube App.
+You have now installed the YouTube App.
