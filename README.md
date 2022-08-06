@@ -5,7 +5,7 @@ So you can enjoy YouTube TV on the steam deck.
 
 ## INSTALLATION
 ```
-git clone https://github.com/Precious13ui/SDYA.git
+git clone https://github.com/Precious13ui/SDYA.git /home/deck/Downloads/SDYA
 ```
 Clones the github repo to /home/deck/Downloads/SDYA.
 
