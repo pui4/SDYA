@@ -9,18 +9,16 @@ git clone https://github.com/Precious13ui/SDYA.git /home/deck/Downloads/SDYA
 ```
 Clones the github repo to /home/deck/Downloads/SDYA.
 
-If not than move it there as it WILL NOT work other wise.
+If it is not there than move it there as it WILL NOT work other wise.
 
 ```
 cd /home/deck/Downloads/SDYA
 ```
 Moves to the downloaded repo.
 ```
-./setup.sh
+python3 setup.py
 ```
 This sets up all the dependencys needed and creates the app.
-
-If this DOES NOT WORK then run ```chmod +x ./setup.sh```
 
 ## ADDING TO STEAM
 Open Steam.
