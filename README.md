@@ -1,5 +1,5 @@
 # SDYA
-An open source YouTube app for the steam deck written in python.
+An open source YouTube app for the steam deck writen in python.
 
 So you can enjoy YouTube TV on the steam deck.
 
