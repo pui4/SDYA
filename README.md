@@ -6,7 +6,7 @@ So you can enjoy YouTube TV on the steam deck.
 ## INSTALLATION
 Execute the following comands in Konsole.
 
-NOTE: Some of these commands require sudo so change yur password first if you haven't already
+NOTE: Some of these commands require sudo so change your password first if you haven't already
 ```
 git clone https://github.com/Precious13ui/SDYA.git /home/deck/Downloads/SDYA
 ```
@@ -61,3 +61,6 @@ Now if you boot into Gaming Mode you should see YouTube App in Non-Steam Games.
 You have now installed the YouTube App.
 
 It takes a while to launch so be pacient.
+
+## FEATURES
+Currently everything works exept livestreams. There is no uBlock or SponsorBlock.
