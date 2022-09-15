@@ -63,4 +63,4 @@ You have now installed the YouTube App.
 It takes a while to launch so be pacient.
 
 ## FEATURES
-Currently everything works exept livestreams. There is no uBlock or SponsorBlock.
+Currently everything works except livestreams. There is no uBlock or SponsorBlock.
