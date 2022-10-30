@@ -3,6 +3,8 @@ An open source YouTube app for the steam deck writen in python.
 
 So you can enjoy YouTube TV on the steam deck.
 
+NOTE: THIS IS NOT CURRENTLY BEING WORKED ON AS I THINK IT AS A GOOD AS I CAN MAKE IT. IF THERE IS A BREAKING ISSUE WITH THE APP THEN I WILL UPDATE IT.
+
 ## INSTALLATION
 Execute the following comands in Konsole.
 
